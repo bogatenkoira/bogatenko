@@ -24,7 +24,7 @@ public class JavaApplication2 {
         String irina = "Ирина";
         String bogatenko = "Богатенко";
         String nikolaevna = "Николаевна";
-
+//kh
 // fullname = irina + "" + bogatenko + "" + nikolaevna;
         System.out.println (bogatenko + " " + irina + " " + nikolaevna);
        
